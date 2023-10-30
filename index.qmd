@@ -6,5 +6,6 @@ This is a testing website made with Quarto.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-Quarto is awesome!
-Quarto is awesome!
+Quarto is awesome! 1
+Quarto is awesome! 2 
+
