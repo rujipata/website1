@@ -2,6 +2,6 @@
 title: "website1"
 ---
 
-This is a Quarto website.
+This is a testing website made with Quarto.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
